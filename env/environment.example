@@ -1,5 +1,6 @@
-# Environment Variables Template
-# Copy this file to .env in the root directory and fill in your actual values
+
+#this is an example file please not do not use this we will make a new env file,
+#this below example is AI generated for our understanding 
 
 # Database Configuration
 DATABASE_URL=postgresql://user:password@localhost:5432/dbname
